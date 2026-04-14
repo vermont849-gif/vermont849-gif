@@ -1,21 +1,54 @@
-Hi, I'm Mihretab Yohannes
+# 👋 Hi, I'm Mihretab Yohannes
 
-Web Development Intern
+ Web Developer | PHP | MySQL
 
-I build websites with PHP, MySQL, HTML, and CSS.
+I build database-driven web applications. Currently looking for a **web development internship**.
 
- What I can do:
-- ✅ User login and registration systems
-- ✅ Database design (MySQL)
-- ✅ Create, Read, Update, Delete (CRUD) applications
-- ✅ Responsive websites with HTML/CSS
 
-🔨 Current Project:
-Building a task management system with user authentication
 
- 📫 Find me:
-- [LinkedIn] www.linkedin.com/in/mihretab-yohannes-bb4a4b30a
-- [Email] - mmuojo0@gmail.com
+ 🚀 My Projects
 
-📌 Featured Projects:
-Check out my pinned repositories below 👇
+ 📊 SMART ATTENDANCE System
+Student attendance management system with daily tracking and reports.
+
+Features: Student CRUD • Daily attendance marking • Monthly reports • Admin login
+
+Tech: PHP • MySQL • HTML/CSS
+
+🔗 [View Repository](https://github.com/vermont849-gif/SMART_ATTENDANCE)**
+
+---
+
+ 📚 Course Management System
+Student course enrollment system with many-to-many database relationships.
+
+Features: Course management • Student enrollment • Class rosters • Enrollment tracking
+
+Tech: PHP • MySQL (many-to-many relationships) • HTML/CSS
+
+🔗 [View Repository](https://github.com/vermont849-gif/course-management-system)
+
+
+
+💻 Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Backend | PHP |
+| Database | MySQL (JOINs, foreign keys, many-to-many) |
+| Frontend | HTML, CSS |
+| Tools | Git, GitHub, XAMPP, phpMyAdmin |
+
+---
+
+ 📫 Connect With Me
+
+- GitHub: [github.com/vermont849-gif](https://github.com/vermont849-gif)
+- LinkedIn: www.linkedin.com/in/mihretab-yohannes-bb4a4b30a
+- Email: mmuojo0@gmail.com
+
+---
+
+## 🎯 Current Goal
+
+Securing a web development internship where I can write PHP/MySQL code and learn from experienced developers.
