@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Mihretab Yohannes
 
-<!--
-**vermont849-gif/vermont849-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Development Intern
 
-Here are some ideas to get you started:
+I build websites with PHP, MySQL, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I can do:
+- ✅ User login and registration systems
+- ✅ Database design (MySQL)
+- ✅ Create, Read, Update, Delete (CRUD) applications
+- ✅ Responsive websites with HTML/CSS
+
+🔨 Current Project:
+Building a task management system with user authentication
+
+ 📫 Find me:
+- [LinkedIn] www.linkedin.com/in/mihretab-yohannes-bb4a4b30a
+- [Email] - mmuojo0@gmail.com
+
+📌 Featured Projects:
+Check out my pinned repositories below 👇
