@@ -14,7 +14,7 @@ PHP | HTML | CSS | Python | SQL | C++ | Java
 
 ## Internship project
 **National Bank of Ethiopia | June 27 - August 27, 2026**  
-Analyzed, designed, and locally demonstrated IARMS, a PHP 8/MySQL and Bootstrap application for asset requests and inventory management.
+Analyzed, designed, and locally demonstrated IARMS, a PHP 8/MySQL and Bootstrap application for asset requests and inventory management. [View the public IARMS project repository](https://github.com/vermont849-gif/inventory-asset-request-management-system).
 
 ## Certificate
 Udacity - Programming Fundamentals, Verified Certificate of Nanodegree Program Completion | August 25, 2024
