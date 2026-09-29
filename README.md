@@ -1,54 +1,23 @@
-# 👋 Hi, I'm Mihretab Yohannes
+# Mihretab Yohannes
 
- Web Developer | PHP | MySQL
+**Final-year BSc Information Technology student at Hawassa University | Expected 2027**
 
-I build database-driven web applications. Currently looking for a **web development internship**.
+I am a patient programming tutor with around three months of experience helping high school and middle school students learn HTML and CSS. I also build practical web and database projects and enjoy explaining technical ideas clearly.
 
+## Tutoring topics
+PHP | HTML | CSS | Python | SQL | C++ | Java
 
+## Featured projects
+- [Smart Attendance System](https://github.com/vermont849-gif/SMART_ATTENDANCE) - Student attendance management with daily tracking and monthly reports. Built with PHP, MySQL, HTML and CSS.
+- [Course Management System](https://github.com/vermont849-gif/course-management-system) - Student registration and course enrollment using PHP, MySQL and many-to-many relationships.
+- [Portfolio](https://github.com/vermont849-gif/portfolio) - Personal portfolio showcasing PHP/MySQL web-development work.
 
- 🚀 My Projects
+## Internship project
+**National Bank of Ethiopia | June 27 - August 27, 2026**  
+Analysis, Design and Local Demonstration of an Inventory and Asset Request Management System (IARMS).
 
- 📊 SMART ATTENDANCE System
-Student attendance management system with daily tracking and reports.
+## Certificate
+Udacity - Programming Fundamentals, Verified Certificate of Nanodegree Program Completion | August 25, 2024
 
-Features: Student CRUD • Daily attendance marking • Monthly reports • Admin login
-
-Tech: PHP • MySQL • HTML/CSS
-
-🔗 [View Repository](https://github.com/vermont849-gif/SMART_ATTENDANCE)**
-
----
-
- 📚 Course Management System
-Student course enrollment system with many-to-many database relationships.
-
-Features: Course management • Student enrollment • Class rosters • Enrollment tracking
-
-Tech: PHP • MySQL (many-to-many relationships) • HTML/CSS
-
-🔗 [View Repository](https://github.com/vermont849-gif/course-management-system)
-
-
-
-💻 Technical Skills
-
-| Category | Technologies |
-|----------|--------------|
-| Backend | PHP |
-| Database | MySQL (JOINs, foreign keys, many-to-many) |
-| Frontend | HTML, CSS |
-| Tools | Git, GitHub, XAMPP, phpMyAdmin |
-
----
-
- 📫 Connect With Me
-
-- GitHub: [github.com/vermont849-gif](https://github.com/vermont849-gif)
-- LinkedIn: www.linkedin.com/in/mihretab-yohannes-bb4a4b30a
-- Email: mmuojo0@gmail.com
-
----
-
-## 🎯 Current Goal
-
-Securing a web development internship where I can write PHP/MySQL code and learn from experienced developers.
+## Contact
+[Email](mailto:mmuojo0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mihretab-yohannes-bb4a4b30a)
